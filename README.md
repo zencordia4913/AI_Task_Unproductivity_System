@@ -13,6 +13,8 @@ The model is particularly useful in BPO, software development, or online educati
 ## Architecture Overview
 
 ![Model Pipeline](./PLAN.png)
+![Model Pipeline](./AE_Output.png)
+![Model Pipeline](./OD.png)
 
 ---
 
