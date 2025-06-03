@@ -27,4 +27,4 @@ The model is particularly useful in BPO, software development, or online educati
 
 ### 2. Mouse/Keyboard Stream Processing
 
-- **Normalization**: Standardize click/key featu
+- **Normalization**: Standardize click/key features
